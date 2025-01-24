@@ -14,3 +14,6 @@
 2. 挑戰賽
 
 - challenge 1 & 3 vs 3 : challenge_1_and_3v3/challenge1And3V3
+  - 採用多執行緒的方式，共 3 個 Thread，分別負責攻擊、防守及電腦視覺
+- challenge 2 : challenge2/
+  - 採用多執行緒的方式同上
